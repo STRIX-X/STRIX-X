@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Aqeel, a passionate Computer Science student with a strong interest in backend development and software engineering.
 
-<!--
-**Aqeel-1/Aqeel-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Technical Expertise:
 
-Here are some ideas to get you started:
+    Proficient in modern programming languages and frameworks.
+    Skilled in database management and web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 What I Do:
+I focus on designing clean and efficient codebases while continuously learning and adapting to new technologies.
+
+🌱 What I'm Learning:
+Currently exploring advanced frameworks and tools to deepen my expertise in backend architecture.
+
+📫 Let's Collaborate!
+Explore my repositories and connect to discuss ideas or collaborate on exciting projects.
