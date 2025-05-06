@@ -1,4 +1,4 @@
-Hi, I'm Aqeel, a passionate Computer Science student with a strong interest in backend development and software engineering.
+a passionate Computer Science student with a strong interest in backend development and software engineering.
 
 🔧 Technical Expertise:
 
